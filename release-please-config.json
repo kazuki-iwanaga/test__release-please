@@ -1,5 +1,5 @@
 {
-  "release-type": "generic",
+  "release-type": "simple",
   "tag-separator": "-",
   "separate-pull-requests": true,
   "packages": {
