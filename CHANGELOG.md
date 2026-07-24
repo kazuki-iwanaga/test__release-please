@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.4.0](https://github.com/kazuki-iwanaga/test__release-please/compare/app-ab-v1.3.0...app-ab-v1.4.0) (2026-07-24)
+
+
+### Features
+
+* test ([dd2e2f8](https://github.com/kazuki-iwanaga/test__release-please/commit/dd2e2f8f5e50ddf23173347c49f37e4aee21e194))
+* test ([cbf9ea0](https://github.com/kazuki-iwanaga/test__release-please/commit/cbf9ea038ffd29b432ca77e5fd0346dae789538d))
+
 ## [1.3.0](https://github.com/kazuki-iwanaga/test__release-please/compare/app-ab-v1.2.0...app-ab-v1.3.0) (2026-07-24)
 
 
