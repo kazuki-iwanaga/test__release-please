@@ -2,31 +2,14 @@
   "release-type": "simple",
   "tag-separator": "-",
   "separate-pull-requests": true,
-  "group-pull-request-title-pattern": "chore(${scope}): release ${group} libraries v${version}",
-  "changelog-types": [
-    { "type": "feat", "section": "feat", "hidden": false },
-    { "type": "fix", "section": "fix", "hidden": false },
-    { "type": "chore", "section": "chore", "hidden": false }
-  ],
   "packages": {
-    "app-a": {
-      "component": "app-a",
-      "package-name": "app-a"
-    },
-    "app-b": {
-      "component": "app-b",
-      "package-name": "app-b"
+    ".": {
+      "component": "app-ab",
+      "package-name": "app-ab"
     },
     "app-c": {
       "component": "app-c",
       "package-name": "app-c"
     }
-  },
-  "plugins": [
-    {
-      "type": "linked-versions",
-      "groupName": "app-ab",
-      "components": ["app-a", "app-b"]
-    }
-  ]
+  }
 }
