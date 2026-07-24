@@ -2,6 +2,11 @@
   "release-type": "simple",
   "tag-separator": "-",
   "separate-pull-requests": true,
+  "changelog-types": [
+    { "type": "feat", "section": "feat", "hidden": false },
+    { "type": "fix", "section": "fix", "hidden": false },
+    { "type": "chore", "section": "chore", "hidden": false }
+  ],
   "packages": {
     "app-a": {
       "component": "app-a",
