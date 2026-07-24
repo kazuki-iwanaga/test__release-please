@@ -2,6 +2,7 @@
   "release-type": "simple",
   "tag-separator": "-",
   "separate-pull-requests": true,
+  "group-pull-request-title-pattern": "chore(${scope}): release ${group} libraries v${version}",
   "changelog-types": [
     { "type": "feat", "section": "feat", "hidden": false },
     { "type": "fix", "section": "fix", "hidden": false },
