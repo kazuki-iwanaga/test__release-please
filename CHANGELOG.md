@@ -1,0 +1,16 @@
+# Changelog
+
+## [1.3.0](https://github.com/kazuki-iwanaga/test__release-please/compare/app-ab-v1.2.0...app-ab-v1.3.0) (2026-07-24)
+
+
+### Features
+
+* add comment ([66ebb1a](https://github.com/kazuki-iwanaga/test__release-please/commit/66ebb1a5197f586edf1a1a9f3db138aea9ed2d88))
+* test change in app-a ([e9d443a](https://github.com/kazuki-iwanaga/test__release-please/commit/e9d443af173fe8c93f3979a22f988130fa9fa360))
+
+
+### Bug Fixes
+
+* include ${version} in linked-versions group PR title ([d709b4b](https://github.com/kazuki-iwanaga/test__release-please/commit/d709b4b3dde49f28aaf6569080e8932a719e2f2f))
+* invalid release-type ([30f4c51](https://github.com/kazuki-iwanaga/test__release-please/commit/30f4c51218f30edddb19d80fb4764888691d901a))
+* unify app-a/app-b into single app-ab release unit ([da06ef0](https://github.com/kazuki-iwanaga/test__release-please/commit/da06ef0db06a4f21ee4931490e8e4fef3a1c6888))
