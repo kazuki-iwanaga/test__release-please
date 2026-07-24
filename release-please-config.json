@@ -1,0 +1,24 @@
+{
+  "release-type": "generic",
+  "separate-pull-requests": true,
+  "packages": {
+    "app-a": {
+      "component": "group-ab",
+      "package-name": "app-a"
+    },
+    "app-b": {
+      "component": "group-ab",
+      "package-name": "app-b"
+    },
+    "app-c": {
+      "package-name": "app-c"
+    }
+  },
+  "plugins": [
+    {
+      "type": "linked-versions",
+      "groupName": "app-ab",
+      "components": ["group-ab"]
+    }
+  ]
+}
