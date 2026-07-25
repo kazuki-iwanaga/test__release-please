@@ -17,3 +17,4 @@ jobs:
         id: release
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          versioning-strategy: always-bump-patch
