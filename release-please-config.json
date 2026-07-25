@@ -1,6 +1,7 @@
 {
   "release-type": "simple",
   "tag-separator": "-",
+  "pull-request-title-pattern": "chore: release ${component} ${version}",
   "packages": {
     ".": {
       "component": "app",
