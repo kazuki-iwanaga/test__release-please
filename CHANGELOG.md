@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.2.0](https://github.com/kazuki-iwanaga/test__release-please/compare/app-v2.1.0...app-v2.2.0) (2026-07-25)
+
+
+### Features
+
+* hi ([7fa7c8f](https://github.com/kazuki-iwanaga/test__release-please/commit/7fa7c8fdb6c61540293f4c405874d7bc330859ea))
+
+
+### Bug Fixes
+
+* remove ([0f4f7c5](https://github.com/kazuki-iwanaga/test__release-please/commit/0f4f7c51603200c2ab317a9fc9b293a5d2cddc0c))
+
 ## [2.1.0](https://github.com/kazuki-iwanaga/test__release-please/compare/app-v2.0.0...app-v2.1.0) (2026-07-25)
 
 
