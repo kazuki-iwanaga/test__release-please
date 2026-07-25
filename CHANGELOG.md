@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/kazuki-iwanaga/test__release-please/compare/app-v1.5.0...app-v2.0.0) (2026-07-25)
+
+
+### ⚠ BREAKING CHANGES
+
+* test
+
+### Features
+
+* test ([1f9d07d](https://github.com/kazuki-iwanaga/test__release-please/commit/1f9d07de6ff69ca736e7e07d4179ce0087087fde))
+
 ## [1.5.0](https://github.com/kazuki-iwanaga/test__release-please/compare/app-v1.4.0...app-v1.5.0) (2026-07-25)
 
 
