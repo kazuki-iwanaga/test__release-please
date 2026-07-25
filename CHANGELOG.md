@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/kazuki-iwanaga/test__release-please/compare/app-v2.0.0...app-v2.1.0) (2026-07-25)
+
+
+### Features
+
+* verify title pattern ([2abbec9](https://github.com/kazuki-iwanaga/test__release-please/commit/2abbec9f0dc7c2ffee3a26f961039dd69300510e))
+
 ## [2.0.0](https://github.com/kazuki-iwanaga/test__release-please/compare/app-v1.5.0...app-v2.0.0) (2026-07-25)
 
 
