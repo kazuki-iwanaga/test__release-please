@@ -1,6 +1,7 @@
 {
   "release-type": "simple",
   "tag-separator": "-",
+  "versioning-strategy": "always-bump-patch",
   "packages": {
     ".": {
       "component": "app",
