@@ -1,15 +1,10 @@
 {
   "release-type": "simple",
   "tag-separator": "-",
-  "separate-pull-requests": true,
   "packages": {
     ".": {
-      "component": "app-ab",
-      "package-name": "app-ab"
-    },
-    "app-c": {
-      "component": "app-c",
-      "package-name": "app-c"
+      "component": "app",
+      "package-name": "app"
     }
   }
 }
